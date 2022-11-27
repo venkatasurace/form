@@ -11,7 +11,7 @@
   "color": "#F4FFDE",
   "icon": "uk-pounds",
   "unpublishedAppLayout": {
-    "type": "DESKTOP"
+    "type": "MOBILE"
   },
   "publishedAppLayout": {
     "type": "DESKTOP"
